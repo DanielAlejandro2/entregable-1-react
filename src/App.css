@@ -1,0 +1,33 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    padding: 15px;
+    background-size: cover;
+    font-family: 'Fredoka', sans-serif;
+}
+.images1{
+   background-image: url(/images/cookie-pink.png) , url(/images/imagen-frases-1.png);
+   background-position: center;
+   background-size: cover;
+}
+.images2{
+   background-image: url(/images/cookie-blue-left.png) , url(/images/imagen-frases-2.png);
+   background-position: center;
+   background-size: cover;
+}
+.images3{
+    background-image: url(/images/cookie-yellow.png), url(/images/imagen-frases-3.png);
+    background-position: center;
+    background-size: cover;
+ }
+ .images4{
+    background-image: url(/images/cookie-green.png) , url(/images/imagen-frases-4.png);
+    background-position: center;
+    background-size: cover;
+ }
+
+
+ 

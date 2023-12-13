@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fredoka:wght@300;600&display=swap');
+.quoteBox {
+    max-width: 400px;
+    display: grid;
+    gap: 29px;
+    justify-items: center;
+}
+.quote_author {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.btn{
+    width: 181px;
+    height: 44px;
+    top: 490px;
+    left: 549px;
+    border-radius: 10px;
+    border: 2px solid #FFFFFF;
+    background-color: transparent;
+    opacity: 60%;
+}
+.quote_phrase{
+ background-position: center;
+ background-size: cover;
+ text-align: center;
+ background-image: url(/Rectangle1.svg);
+}
+.quote_phrase p {
+ margin: 30px;
+ padding: 30px;
+ background-size: cover;
+}
+.title{
+    color:#FFF ;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fredoka', sans-serif;
+    text-shadow: 4px 6px 0px rgba(0, 0, 0, 0.17);
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+}
